@@ -10,6 +10,7 @@ function App() {
   return (
     <>
     <div>
+    <h1>AutoVault</h1>
     <div className="App">
       <LoginBox />
     </div>
